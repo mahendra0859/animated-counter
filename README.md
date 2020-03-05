@@ -2,7 +2,7 @@
 
 - Youtube Link : https://www.youtube.com/watch?v=a6XIMIKmj9k
 
-- Demo Link :
+- Demo Link : https://mahendra0859.github.io/animated-counter/index.html
 
 #### Preview
 
